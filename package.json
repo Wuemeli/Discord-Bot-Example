@@ -1,10 +1,10 @@
 {
     "name": "Sample Discord Bot",
     "version": "1.0.0",
-    "description": "Create an Discord bot with an Slash Command. Use Disocrd.js.",
-    "main": "discordbit.js",
+    "description": "Create an Discord bot with an Slash Command. Use Discord.js.",
+    "main": "discordbot.js",
     "scripts": {
-        "start": "node discordbit.js"
+        "start": "node discordbot.js"
     },
     "author": "Wuemeli",
     "license": "MIT",
